@@ -1,7 +1,6 @@
 #include<stdio.h>
 
-
-/*
+/**
  * main - Entry point
  *
  * Description: print all alphabet letters
